@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="junit-vintage-engine-5.7.0">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/junit-vintage-engine-5.7.0.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
